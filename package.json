@@ -1,0 +1,27 @@
+{
+  "name": "goit-node-hw-01-contacts",
+  "version": "1.0.0",
+  "description": "Module 1. File system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grantoed/goit-node-hw-01-contacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grantoed/goit-node-hw-01-contacts/issues"
+  },
+  "homepage": "https://github.com/Grantoed/goit-node-hw-01-contacts#readme",
+  "devDependencies": {
+    "commander": "^9.4.1",
+    "nodemon": "^2.0.20",
+    "yargs": "^17.6.2"
+  }
+}
